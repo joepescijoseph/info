@@ -1,0 +1,34 @@
+Design Patterns For Dummies
+
+ Design Patterns For Dummies
+Author:
+Steve Holzner
+Isbn:
+0471798541
+Year:
+2006
+Pages:
+339
+Language:
+English
+File size:
+4.9 MB
+File format:
+PDF
+Category:
+Programming
+Book Description:
+
+There’s a pattern here, and here’s how to use it!
+
+Find out how the 23 leading design patterns can save you time and trouble
+
+Ever feel as if you’ve solved this programming problem before? You — or someone — probably did, and that’s why there’s a design pattern to help this time around. This book shows you how (and when) to use the famous patterns developed by the “Gang of Four,” plus some new ones, all designed to make your programming life easier.
+
+Discover how to:
+* Simplify the programming process with design patterns
+* Make the most of the Decorator, Factory, and Adapter patterns
+* Identify which pattern applies
+* Reduce the amount of code needed for a task
+* Create your own patterns
+
