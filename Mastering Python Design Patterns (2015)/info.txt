@@ -1,0 +1,26 @@
+Mastering Python Design Patterns
+
+Create various design patterns to master the art of solving problems using Python
+
+ Mastering Python Design Patterns
+Author:
+Sakis Kasampalis
+Isbn:
+1783989327
+Year:
+2015
+Pages:
+212
+Language:
+English
+File size:
+8.19 MB
+File format:
+PDF
+Category:
+Python
+Book Description:
+
+Python is an object-oriented, scripting language that is used in wide range of categories. In software engineering, a design pattern is a recommended solution to a software design problem. Although not new, design patterns remain one of the hottest topics in software engineering and they come as a ready reference for software developers to solve the common problems they face at work.
+
+This book will take you through each and every design pattern explained with the help of real-world examples. The aim of the book is to introduce more low-level detail and concepts on how to write Pythonic code, not just focusing on common solutions as implemented in Java and C++. It includes small sections on troubleshooting, best practices, system architecture, and its design aspects. With the help of this book, you will be able to understand Python design pattern concepts and the framework, as well as issues and their resolution. You’ll focus on all 16 design patterns that are used to solve everyday problems.
