@@ -1,0 +1,41 @@
+Learning Python Design Patterns, 2nd Edition
+
+Leverage the power of Python design patterns to solve real-world problems in software architecture and design
+
+ Learning Python Design Patterns, 2nd Edition
+Author:
+Chetan Giridhar
+ISBN-10:
+178588803X
+Year:
+2016
+Pages:
+311
+Language:
+English
+File size:
+2.8 MB
+File format:
+PDF
+Category:
+Python
+Book Description:
+
+With the increasing focus on optimized software architecture and design it is important that software architects think about optimizations in object creation, code structure, and interaction between objects at the architecture or design level. This makes sure that the cost of software maintenance is low and code can be easily reused or is adaptable to change. The key to this is reusability and low maintenance in design patterns.
+
+Building on the success of the previous edition, Learning Python Design Patterns, Second Edition will help you implement real-world scenarios with Python’s latest release, Python v3.5.
+
+We start by introducing design patterns from the Python perspective. As you progress through the book, you will learn about Singleton patterns, Factory patterns, and Facade patterns in detail. After this, we’ll look at how to control object access with proxy patterns. It also covers observer patterns, command patterns, and compound patterns.
+
+By the end of the book, you will have enhanced your professional abilities in software architecture, design, and development.
+
+What you will learn
+
+Enhance your skills to create better software architecture
+Understand proven solutions to commonly occurring design issues
+Explore the design principles that form the basis of software design, such as loose coupling, the Hollywood principle and the Open Close principle among others
+Delve into the object-oriented programming concepts and find out how they are used in software applications
+Develop an understanding of Creational Design Patterns and the different object creation methods that help you solve issues in software development
+Use Structural Design Patterns and find out how objects and classes interact to build larger applications
+Focus on the interaction between objects with the command and observer patterns
+Improve the productivity and code base of your application using Python design patterns
