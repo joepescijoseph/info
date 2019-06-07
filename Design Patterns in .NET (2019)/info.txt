@@ -1,0 +1,37 @@
+
+Design Patterns in .NET
+Reusable Approaches in C# and F# for Object-Oriented Software Design
+Design Patterns in .NET	
+
+Author:
+    Dmitri Nesteruk
+ISBN-10:
+    148424365X
+Year:
+    2019
+Pages:
+    376
+Language:
+    English
+File size:
+    3.2 MB
+File format:
+    PDF, ePub
+Category:
+    .NET
+
+Book Description:
+Implement design patterns in .NET using the latest versions of the C# and F# languages. This book provides a comprehensive overview of the field of design patterns as they are used in today’s developer toolbox.
+
+Using the C# programming language, Design Patterns in .NET explores the classic design pattern implementation and discusses the applicability and relevance of specific language features for the purpose of implementing patterns. You will learn by example, reviewing scenarios where patterns are applicable. MVP and patterns expert Dmitri Nesteruk demonstrates possible implementations of patterns, discusses alternatives and pattern inter-relationships, and illustrates the way that a dedicated refactoring tool (ReSharper) can be used to implement design patterns with ease.
+
+What You’ll Learn
+
+    Know the latest pattern implementations available in C# and F#
+    Refer to researched and proven variations of patterns
+    Study complete, self-contained examples including many that cover advanced scenarios
+    Use the latest implementations of C# and Visual Studio/ReSharper
+
+Who This Book Is For
+
+Developers who have some experience in the C# language and want to expand their comprehension of the art of programming by leveraging design approaches to solving modern problems
